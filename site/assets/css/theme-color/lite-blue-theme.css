@@ -1,0 +1,358 @@
+
+/*=======================================
+Template Design By MarkUps.
+Author URI : http://www.markups.io/
+========================================*/
+
+
+.login:hover,
+.login:focus{
+  background-color: #f6e800; 
+}
+
+.navbar-brand {
+  color: #f6e800 !important; 
+}
+
+.navbar-brand:hover,
+.navbar-brand:focus{
+  color: #f6e800 !important;  
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #f6e800 !important;  
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #f6e800;
+}
+
+.main-nav > li > a:hover::before,
+.navbar-default .navbar-nav > .active > a::before,
+.navbar-default .navbar-nav > .open > a:hover::before {
+  background-color: #f6e800; 
+}
+
+.main-nav .dropdown:hover .dropdown-toggle{ 
+  color: #f6e800; 
+}
+
+.main-nav .dropdown:hover .dropdown-toggle::before{
+  background-color: #f6e800;
+  color: #f6e800; 
+}
+
+.navbar-default .navbar-nav > .open > a, 
+.navbar-default .navbar-nav > .open > a:hover, 
+.navbar-default .navbar-nav > .open > a:focus {  
+  color: #f6e800;
+}
+
+.navbar-nav > li > .dropdown-menu {
+  border-top: 2px solid #f6e800;  
+}
+
+.navbar-nav > li > .dropdown-menu > li > a:hover,
+.navbar-nav > li > .dropdown-menu > li > a:focus{ 
+  color: #f6e800;
+}
+
+.main-slider .slick-prev:hover,
+.main-slider .slick-next:hover{
+  background-color: #f6e800;
+}
+
+.main-slider .slick-dots li button::before {
+  color: #f6e800;    
+}
+
+.read-more-btn:hover,
+.read-more-btn:focus{
+  background-color: #f6e800;  
+}
+
+.title-area .title {
+  color: #f6e800;  
+}
+
+.single-feature .feature-icon {
+  color: #f6e800;
+}
+
+.feat-title{
+  color: #f6e800;
+}
+
+.our-skill h3{
+  color: #f6e800;
+}
+
+.our-skill h3::after {
+  background-color: #f6e800;
+}
+
+.our-skill-content .progress-bar {
+  background-color: #f6e800;    
+}
+
+.why-choose-us h3{
+  color: #f6e800;  
+}
+
+.why-choose-us h3::after {
+  background-color: #f6e800;  
+}
+
+.panel-title > a:hover,
+.panel-title > a:focus{
+  color: #f6e800;
+}
+
+.single-counter .counter-label::after {
+  background-color: #f6e800;  
+}
+
+.price-title {
+  background-color: #f6e800;
+}
+
+.purchase-btn:hover,
+.purchase-btn:focus{
+  background-color: #f6e800;
+  border-color: #f6e800;  
+}
+
+.featured-price .price-header{
+  background-color: #f6e800;
+}
+
+.featured-price .purchase-btn{
+  background-color: #f6e800;
+  border-color: #f6e800;
+}
+
+.team-member-img {  
+  border: 2px solid #f6e800;  
+}
+
+.single-team-member:hover{
+  border: 2px solid #f6e800;
+}
+
+.single-team-member:hover .team-member-link{
+  background-color: #f6e800;  
+}
+
+.team-member-link {
+  border: 2px solid #f6e800;
+}
+
+.testimonial-content h6 span {
+  color: #f6e800;
+}
+
+.testimonial-slider .slick-dots li {
+  border: 1px solid #f6e800; 
+}
+
+.blog-news-title h2>a:hover{
+  color: #f6e800;  
+}
+
+.blog-news-title .blog-author:hover{
+  color: #f6e800;
+}
+
+.blog-more-btn:hover,
+.blog-more-btn:focus{
+  color: #f6e800;  
+}
+
+.subscribe-btn {
+  background-color: #f6e800;
+}
+
+.scrollToTop {
+  background-color: #f6e800;
+}
+
+.scrollToTop:hover,
+.scrollToTop:focus{
+  color: #f6e800;
+  border: 1px solid #f6e800; 
+}
+
+.portfolio-menu ul li:hover,
+.portfolio-menu ul li.active{
+  background-color: #f6e800;
+  border-color: #f6e800; 
+}
+
+.single-item-content::after {
+  border: 4px solid #f6e800;  
+}
+
+.view-icon:hover{
+  color: #f6e800;
+}
+
+.pagination-nav li a:hover,
+.pagination-nav li a:focus { 
+  background-color: #f6e800;
+  border-color: #f6e800; 
+}
+
+.sidebar-widget ul>li>a:hover{
+  color: #f6e800;
+}
+
+.search-group .blog-search-btn {
+  background-color: #f6e800;  
+}
+
+.search-group input[type="search"] {  
+  border: 1px solid #f6e800;  
+}
+
+.search-group input[type="search"]:focus{
+  border-color: #f6e800;
+}
+
+.widget-title::after {
+  background-color: #f6e800;  
+}
+
+.widget-catg li{
+  color: #f6e800;
+  display: flex;
+}
+
+.widget-catg li a:hover,
+.widget-catg li a:focus{
+  color: #f6e800; 
+}
+
+.tag-cloud a:hover,
+.tag-cloud a:focus{
+  background-color: #f6e800;
+  border-color: #f6e800;  
+}
+
+.widget-archive li a:hover,
+.widget-archive li a:focus{
+  color: #f6e800;
+}
+
+.blog-single-tag a:hover,
+.blog-single-tag a:focus {
+  color: #f6e800;  
+}
+
+.blog-single-social a:hover,
+.blog-single-social a:focus {  
+  color: #f6e800;
+  border-color: #f6e800;
+}
+
+.blog-navigation-prev a>span{
+  color: #f6e800;  
+}
+
+.blog-navigation-next a>span{
+  color: #f6e800;  
+}
+
+.comments-form .form-control:focus {
+  border-color: #f6e800;  
+}
+
+.comments-box-area h2::after {
+  background-color: #f6e800;
+}
+
+.comment-btn:hover{
+  background-color: #f6e800;
+  border-color: #f6e800;  
+}
+
+.contact-area-left h4::after {
+  background-color: #f6e800;
+}
+
+#login-content .form-control:focus {
+  border-color: #f6e800;  
+}
+
+.loginbox .signin-btn {
+  background-color: #f6e800;  
+}
+
+.footer-box a:hover,
+.footer-box a:focus{
+  color: #f6e800;
+}
+
+#signup-content .modal-title {
+  color: #f6e800;
+}
+
+#signup-content .form-control:focus {
+  border-color: #f6e800;  
+}
+
+.signupbox span a:hover{
+  color: #f6e800; 
+}
+
+.navbar-default .navbar-toggle {
+  border-color: #f6e800;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #f6e800;
+}
+
+#search-icon {
+  color: #f6e800;  
+}
+
+#login-content .modal-title {
+  color: #f6e800;
+}
+
+.service-icon {
+  color: #f6e800;
+}
+
+.footer-left p a:hover{
+  color: #f6e800;
+}
+
+.footer-right a:hover{
+  color: #f6e800;
+}
+
+.single-page-header-right .breadcrumb li{
+  color: #f6e800;
+}
+
+.error-title {
+  background-color: #f6e800;
+  border: 2px solid #f6e800;  
+}
+
+.error-content span {
+  color: #f6e800; 
+}
+
+.error-content .error-home {
+  background-color: #f6e800;  
+}
+
+/*=======================================
+Template Design By MarkUps.
+Author URI : http://www.markups.io/
+========================================*/
