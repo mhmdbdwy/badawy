@@ -25,7 +25,7 @@
 <meta name="googlebot" content="archive">
 <meta name="resource-type" content="document" >
 
-    <title><?php echo $manage->title; ?></title>
+    <title></title>
 
     <link rel="shortcut icon" type="image/icon" href="<?php echo base_url(); ?>site/assets/images/favicon.ico"/>
     <link href="<?php echo base_url(); ?>site/assets/css/font-awesome.css" rel="stylesheet">
