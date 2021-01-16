@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>  
+</head>
+<body>
+<div id="mo">
+
+    </div>
+<div id="app">
+    <input type="text" v-model:value="Fname">
+<button v-on:click="salary++">click me</button>
+<button v-on:click="AlertME()">Alert me</button>
+<p>{{MyNextFunction()}}</p>
+<p>{{Fname}}</p>
+<p>{{Printname('Ahmeeed')}}</p>
+<p>{{Printname('Ahmeeed')}}</p>
+<h1 :class="classes">hello</h1>
+</div>
+    <script>
+var app = new Vue({
+  el: '#app',
+  data: {
+    message: 'Hello Vue!',
+    salary: 5000,
+    Fname: 'Omar',
+    classes:['blue','underlined']
+  },
+  methods:{ 
+      Myfunction(){
+      return 'Ahmed';
+  },
+  MyNextFunction(){ return this.message },
+  Printname(PrintedName){ return PrintedName + '  '+this.salary; },
+  AlertME(){alert('HI');}
+}
+})
+        </script>
+ <script src="mo.js"></script>  
+</body>
+</html>
